@@ -42,7 +42,11 @@ To delete an entry, navigate to the "Delete" page, select an entry, and confirm 
 Here are the endpoints used in this project:
 
 GET /api/data - Fetch all data
+
 POST /api/data - Create a new data entry
+
 PUT /api/data/:id - Update an existing data entry
+
 DELETE /api/data/:id - Delete an existing data entry
+
 
